@@ -8,7 +8,7 @@ _A simple automation wrapper for [Volatility 3](https://github.com/volatilityfou
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
-![Swag](https://img.shield.io/badge/Swag%20%3A%20On8A2EB2)
+![Swag](https://img.shield.io/badge/Swag%20-%20On-8A2EB2)
 
 ---
 
