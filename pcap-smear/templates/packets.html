@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Packets in {{ filename }}</title>
+</head>
+<body>
+    <h1>Packets in {{ filename }}</h1>
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>#</th>
+            <th>Timestamp</th>
+            <th>Source IP</th>
+            <th>Destination IP</th>
+            <th>Protocol</th>
+        </tr>
+        {% for pkt in packets %}
+        <tr>
+            <td>{{ loop.index }}</td>
+            <td>{{ pkt.time }}</td>
+            <td>{{ pkt.src }}</td>
+            <td>{{ pkt.dst }}</td>
+            <td>{{ pkt.proto }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
