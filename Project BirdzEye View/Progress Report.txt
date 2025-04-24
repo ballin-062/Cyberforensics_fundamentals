@@ -1,0 +1,21 @@
+Project 1 -- BirdzEye View
+
+Team Falcon
+
+Sanaa Byron
+Ryder Ford
+Julian Sandberg
+Bryan Ramirez
+Colin Torbett
+
+
+4/23/2025
+
+Requirements:
+- [+] Python Flask API web interface 
+- [+] Use Packet Capture Library
+- [--] Basic packet capture & display
+    - Need to add capture capability, display works just fine
+- [+] Apply 1+ filter
+- [+] Progress Report 
+- [_] Demo/Presentation

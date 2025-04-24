@@ -1,0 +1,18 @@
+Team Falcon
+
+Ryder Ford
+Bryan Ramirez
+Julian Sandberg
+Sanaa Byron
+Colin Torbett
+
+
+Project 2: Disk Forensics
+
+So far we have 
+- Downloaded and installed Autopsy 
+- Downloaded the Disk Files (.E01)
+- Uploaded the files to Autopsy tool
+- Began research into files on disks for 
+    - 'Defaced' Ubuntu server
+    - Windows server
